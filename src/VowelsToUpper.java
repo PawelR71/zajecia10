@@ -46,5 +46,6 @@ public class VowelsToUpper {
         } catch (IOException e) {
             e.printStackTrace();
         }
+
     }
 }
